@@ -4,4 +4,4 @@
 ### The main data is retrieved by parsing the /proc/%s directory
 
 
-###In the GUI folder qt debug version. To run in the Qt should be installed 
+In the GUI folder qt debug version. To run in the Qt should be installed 
